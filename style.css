@@ -1,0 +1,35 @@
+.container-body {
+    background-color: #a19f9f;
+}
+.container-header {
+    background-color: #dfdede;
+    width: 100%;
+}
+.title{
+    color: rgb(95, 78, 205);
+    text-align: center;
+}
+.calculate-title {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 20px;
+}
+.container-calc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.form-control{
+    width: 25%;
+    margin: 10px auto;
+}
+.form-select{
+    width: 25%;
+    margin: 10px auto;
+}
+.resultado {
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
